@@ -1,0 +1,38 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>tricycle-auto-rickshaw-on-the-national-highway-near-attingai-kerala-B25Y9X.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\tricycle-auto-rickshaw-on-the-national-highway-near-attingai-kerala-B25Y9X.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1043</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>106</ymin>
+			<xmax>1015</xmax>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1153</xmin>
+			<ymin>163</ymin>
+			<xmax>1300</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

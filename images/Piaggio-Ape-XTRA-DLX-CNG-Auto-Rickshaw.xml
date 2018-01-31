@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>Piaggio-Ape-XTRA-DLX-CNG-Auto-Rickshaw.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\Piaggio-Ape-XTRA-DLX-CNG-Auto-Rickshaw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>804</width>
+		<height>609</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>82</ymin>
+			<xmax>748</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

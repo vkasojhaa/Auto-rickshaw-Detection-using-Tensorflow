@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>autorickshaw_a.jpg4c18ac9b-835e-419f-92e6-9be5a8430a32Original.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\autorickshaw_a.jpg4c18ac9b-835e-419f-92e6-9be5a8430a32Original.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>136</ymin>
+			<xmax>800</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

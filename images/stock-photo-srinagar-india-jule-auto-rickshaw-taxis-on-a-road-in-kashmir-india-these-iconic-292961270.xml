@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>stock-photo-srinagar-india-jule-auto-rickshaw-taxis-on-a-road-in-kashmir-india-these-iconic-292961270.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\stock-photo-srinagar-india-jule-auto-rickshaw-taxis-on-a-road-in-kashmir-india-these-iconic-292961270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>30</ymin>
+			<xmax>360</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

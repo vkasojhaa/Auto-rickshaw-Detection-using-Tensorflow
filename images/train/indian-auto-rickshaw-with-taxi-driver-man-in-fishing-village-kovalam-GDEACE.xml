@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>indian-auto-rickshaw-with-taxi-driver-man-in-fishing-village-kovalam-GDEACE.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\indian-auto-rickshaw-with-taxi-driver-man-in-fishing-village-kovalam-GDEACE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>96</ymin>
+			<xmax>1220</xmax>
+			<ymax>812</ymax>
+		</bndbox>
+	</object>
+</annotation>

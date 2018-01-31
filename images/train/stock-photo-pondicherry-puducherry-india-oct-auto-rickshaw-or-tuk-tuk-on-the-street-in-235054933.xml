@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>stock-photo-pondicherry-puducherry-india-oct-auto-rickshaw-or-tuk-tuk-on-the-street-in-235054933.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\stock-photo-pondicherry-puducherry-india-oct-auto-rickshaw-or-tuk-tuk-on-the-street-in-235054933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>86</ymin>
+			<xmax>391</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>images_q=tbn_ANd9GcQJaNSwk9K0wpw0SNXxL2RISkBeM2c3T4fj870yofkxmTfDvfAE.jpg</filename>
+	<path>C:\Users\vikas\Desktop\autorickshaw - Google Search\images_q=tbn_ANd9GcQJaNSwk9K0wpw0SNXxL2RISkBeM2c3T4fj870yofkxmTfDvfAE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>97</ymin>
+			<xmax>195</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>121</ymin>
+			<xmax>465</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>113</ymin>
+			<xmax>640</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

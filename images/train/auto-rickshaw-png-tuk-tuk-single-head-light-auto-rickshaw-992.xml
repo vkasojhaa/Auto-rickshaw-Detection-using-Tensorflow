@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>auto-rickshaw-png-tuk-tuk-single-head-light-auto-rickshaw-992.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\auto-rickshaw-png-tuk-tuk-single-head-light-auto-rickshaw-992.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>992</width>
+		<height>815</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>56</ymin>
+			<xmax>862</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>

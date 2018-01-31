@@ -1,0 +1,38 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>Auto-Rickshaw-Driver-Travels-1-Lakh-Kilometer-With-His-Pet-Dog-660x330.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\Auto-Rickshaw-Driver-Travels-1-Lakh-Kilometer-With-His-Pet-Dog-660x330.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>32</ymin>
+			<xmax>470</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>85</ymin>
+			<xmax>135</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

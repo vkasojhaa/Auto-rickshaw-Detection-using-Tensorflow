@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>green-and-yellow-auto-rickshaw-fueled-by-compressed-natural-gas-cng-A8JDR3.jpg</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\green-and-yellow-auto-rickshaw-fueled-by-compressed-natural-gas-cng-A8JDR3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1065</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>96</ymin>
+			<xmax>1053</xmax>
+			<ymax>972</ymax>
+		</bndbox>
+	</object>
+</annotation>

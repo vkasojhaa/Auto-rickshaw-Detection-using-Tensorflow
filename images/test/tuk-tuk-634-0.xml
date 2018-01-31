@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autorickshaw - Google Search</folder>
+	<filename>tuk-tuk-634-0.png</filename>
+	<path>C:\Users\vikas\Documents\Bulk Image Downloader\autorickshaw - Google Search\tuk-tuk-634-0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1284</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>40</ymin>
+			<xmax>1224</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+</annotation>
